@@ -1,1 +1,1 @@
-# Nova_Ecommerce_Sales_Dashboard_PowerBI_Project
+# Ecommerce_Sales_Dashboard_PowerBI_Project
